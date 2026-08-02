@@ -1,45 +1,58 @@
 {
-  "generatedAt": "2026-08-02T17:18:12.484Z",
+  "generatedAt": "2026-08-02T17:20:15.676Z",
   "source": "google",
   "location": {
     "id": "kabushkina-94-2",
     "name": "Минск, Кабушкина 94/2",
     "businessName": "Vsevprokat",
     "sourceUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
-    "usedUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    "usedUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru&gl=by",
     "sourceFileUrl": "https://raw.githubusercontent.com/vsevprokatmsk-web/Google-Rewies/main/data/google-reviews-kabushkina-94-2.json"
   },
   "status": {
     "ok": true,
     "error": null,
-    "attemptIndex": 0,
+    "attemptIndex": 1,
     "responseStatus": 200,
-    "responseUrl": "https://consent.google.com/m?continue=https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data%3D!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%252Fg%252F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%252Fg%252F11vdkcx2zy?hl%3Dru-LT%26entry%3Dttu%26g_ep%3DEgoyMDI2MDcyOS4wIKXMDSoASAFQAw%253D%253D&gl=LT&m=0&pc=m&uxe=eomtm&cm=2&hl=ru&src=1",
-    "finalUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    "responseUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru&gl=by",
+    "finalUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
     "title": "Vsevprokat – Google Карты",
-    "consentButton": "Принять все",
+    "consentButton": null,
     "declaredReviewCount": 24,
     "collectedReviewCount": 24,
-    "htmlBytes": 555046,
-    "textBytes": 13131,
-    "textHash": "3678a107b9997fbc224ca416c11639bf720429fce9685c4eba5b7ef44525368c",
+    "htmlBytes": 552560,
+    "textBytes": 13090,
+    "textHash": "178985688c4f2c33ccc1d87516c9fe5784af971e590c1bd2dce80c148b25576d",
     "debugFiles": {
-      "html": "debug/kabushkina-94-2.html",
-      "text": "debug/kabushkina-94-2.txt",
-      "screenshot": "debug/kabushkina-94-2.png"
+      "html": "debug/kabushkina-94-2-attempt-2.html",
+      "text": "debug/kabushkina-94-2-attempt-2.txt",
+      "screenshot": "debug/kabushkina-94-2-attempt-2.png"
     },
     "attempts": [
       {
         "url": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
         "ok": true,
         "title": "Vsevprokat – Google Карты",
-        "declaredReviewCount": 24,
-        "collectedReviewCount": 24,
-        "textBytes": 13131,
+        "declaredReviewCount": null,
+        "collectedReviewCount": 0,
+        "textBytes": 1380,
         "debugFiles": {
           "html": "debug/kabushkina-94-2.html",
           "text": "debug/kabushkina-94-2.txt",
           "screenshot": "debug/kabushkina-94-2.png"
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru&gl=by",
+        "ok": true,
+        "title": "Vsevprokat – Google Карты",
+        "declaredReviewCount": 24,
+        "collectedReviewCount": 24,
+        "textBytes": 13090,
+        "debugFiles": {
+          "html": "debug/kabushkina-94-2-attempt-2.html",
+          "text": "debug/kabushkina-94-2-attempt-2.txt",
+          "screenshot": "debug/kabushkina-94-2-attempt-2.png"
         }
       }
     ]
@@ -322,14 +335,14 @@
       "locationId": "kabushkina-94-2"
     },
     {
-      "id": "44f96060d432923d",
-      "hash": "44f96060d432923dc8f3251a055b0edb50d09fb3a757981a9720cf926788ce26",
+      "id": "592af083dc2a32f1",
+      "hash": "592af083dc2a32f136f2b164ab5f95fd26b7e16980b07d97aa8267396de84e01",
       "author": "Natashka",
       "authorMeta": "3 отзыва",
       "rating": 5,
       "date": "2024-08-02 12:00:00",
       "relativeDate": "2 года назад",
-      "text": "Войти  Слои Картографические данные © , 2026ЛитваУсловия использованияКонфиденциальностьОтправить отзыв о сервисе 50 м",
+      "text": "Войти  Слои Картографические данные © , 2026БеларусьУсловия использованияКонфиденциальностьОтправить отзыв о сервисе 50 м",
       "source": "google",
       "locationId": "kabushkina-94-2"
     }
