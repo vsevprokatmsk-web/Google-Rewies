@@ -38,6 +38,51 @@ function cleanLine(value) {
     .trim();
 }
 
+function formatApproximateDate(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day} 12:00:00`;
+}
+
+function approximateRelativeDate(label, baseDate = new Date()) {
+  const text = String(label || '').toLowerCase().trim();
+  const date = new Date(baseDate.getTime());
+
+  if (!text || text.includes('сегодня') || text.includes('today')) {
+    return formatApproximateDate(date);
+  }
+
+  if (text.includes('вчера') || text.includes('yesterday')) {
+    date.setDate(date.getDate() - 1);
+    return formatApproximateDate(date);
+  }
+
+  const match = text.match(/(?:(\d+)\s+)?([a-zа-яё]+)/i);
+  if (!match) {
+    return formatApproximateDate(date);
+  }
+
+  const amount = match[1] ? Number(match[1]) : 1;
+  const unit = match[2];
+
+  if (unit.startsWith('мин') || unit.startsWith('min') || unit.startsWith('час') || unit.startsWith('hour')) {
+    return formatApproximateDate(date);
+  }
+
+  if (unit.startsWith('д') || unit.startsWith('day')) {
+    date.setDate(date.getDate() - amount);
+  } else if (unit.startsWith('нед') || unit.startsWith('week')) {
+    date.setDate(date.getDate() - (amount * 7));
+  } else if (unit.startsWith('мес') || unit.startsWith('month')) {
+    date.setMonth(date.getMonth() - amount);
+  } else if (unit.startsWith('год') || unit.startsWith('года') || unit.startsWith('лет') || unit.startsWith('year')) {
+    date.setFullYear(date.getFullYear() - amount);
+  }
+
+  return formatApproximateDate(date);
+}
+
 function isIconLine(line) {
   return /^[^\p{L}\p{N}]+$/u.test(line);
 }
@@ -167,6 +212,7 @@ function parseReviewsFromText(bodyText, location) {
       author,
       authorMeta: meta,
       rating: getRatingFromLines(lines, detailsStart, dateIndex),
+      date: approximateRelativeDate(lines[dateIndex]),
       relativeDate: lines[dateIndex],
       text,
       source: 'google',

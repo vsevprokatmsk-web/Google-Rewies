@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-02T17:03:27.288Z",
+  "generatedAt": "2026-08-02T17:18:12.702Z",
   "ok": true,
   "launchError": null,
   "runner": {
     "node": "v20.20.2",
-    "platform": "linux",
-    "arch": "x64"
+    "platform": "darwin",
+    "arch": "arm64"
   },
   "files": [
     {
