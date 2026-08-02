@@ -1,0 +1,313 @@
+{
+  "generatedAt": "2026-08-02T16:56:40.234Z",
+  "source": "google",
+  "location": {
+    "id": "kabushkina-94-2",
+    "name": "Минск, Кабушкина 94/2",
+    "businessName": "Vsevprokat",
+    "sourceUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    "usedUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    "sourceFileUrl": "https://raw.githubusercontent.com/vsevprokatmsk-web/Google-Rewies/main/data/google-reviews-kabushkina-94-2.json"
+  },
+  "status": {
+    "ok": true,
+    "error": null,
+    "attemptIndex": 0,
+    "responseStatus": 200,
+    "responseUrl": "https://consent.google.com/m?continue=https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data%3D!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%252Fg%252F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%252Fg%252F11vdkcx2zy?hl%3Dru-LT%26entry%3Dttu%26g_ep%3DEgoyMDI2MDcyOS4wIKXMDSoASAFQAw%253D%253D&gl=LT&m=0&pc=m&uxe=eomtm&cm=2&hl=ru&src=1",
+    "finalUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    "title": "Vsevprokat – Google Карты",
+    "consentButton": "Принять все",
+    "declaredReviewCount": 24,
+    "collectedReviewCount": 24,
+    "htmlBytes": 554773,
+    "textBytes": 13131,
+    "textHash": "3678a107b9997fbc224ca416c11639bf720429fce9685c4eba5b7ef44525368c",
+    "debugFiles": {
+      "html": "debug/kabushkina-94-2.html",
+      "text": "debug/kabushkina-94-2.txt",
+      "screenshot": "debug/kabushkina-94-2.png"
+    },
+    "attempts": [
+      {
+        "url": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+        "ok": true,
+        "title": "Vsevprokat – Google Карты",
+        "declaredReviewCount": 24,
+        "collectedReviewCount": 24,
+        "textBytes": 13131,
+        "debugFiles": {
+          "html": "debug/kabushkina-94-2.html",
+          "text": "debug/kabushkina-94-2.txt",
+          "screenshot": "debug/kabushkina-94-2.png"
+        }
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "fed4d8b5f1f1245f",
+      "hash": "fed4d8b5f1f1245f671595b74009d9db32cbf54c8ba6199634fb359e3e93614c",
+      "author": "Александр Ходко",
+      "authorMeta": "Местный эксперт · 113 отзывов · 208 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Брал отбойник и шлифмашинку с пылесосом и другое. Всегда чистый инструмент, есть много оснастки, сопутствующие товары. Рекомендую данный прокат! 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "22667ee2b822af2b",
+      "hash": "22667ee2b822af2bd09ed5d6ed47c5384a2f3211e736c139029997f4c2a65a9d",
+      "author": "Руслан Карчмит",
+      "authorMeta": "1 отзыв · 2 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Инструменты всегда доступны и хорошо обслужены, цены приемлемые, а менеджер всегда готов оказать помощь. Это прекрасная альтернатива покупке инструмента для работ. 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "65e1b25fa558ea3d",
+      "hash": "65e1b25fa558ea3d6ba4325476be330f12e47a334f4dd07c1a04c83cff64fac4",
+      "author": "Татьяна",
+      "authorMeta": "3 отзыва",
+      "rating": 5,
+      "relativeDate": "месяц назад",
+      "text": "Нужен был культиватор, обратилась к ребятам. Такие умнички, все объяснили и показали, что я все поняла. Культурные и приятные. Рекомендую!",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "14c2b8247d6b17f4",
+      "hash": "14c2b8247d6b17f434183b2cdf40dd654636821341c30276558fc4a22ff1947f",
+      "author": "Александр Тимохин",
+      "authorMeta": "Местный эксперт · 29 отзывов",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Рекомендую!!! Отличный прокат. Огромный выбор инструмента (можно дом построить и содержать его в чистоте))) Вежливый персонал и главное - цены, дешевле нигде не найдете.",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "6fa8ebd7a9edf33b",
+      "hash": "6fa8ebd7a9edf33b8507731bdf60f804bf5b2798e979213a9de6146473099175",
+      "author": "Bahdan Chyzhanok",
+      "authorMeta": "2 отзыва",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Отличный прокат! Мы взяли в аренду штроборез и строительный пылесос, и оба инструмента были в отличном техническом состоянии. Команда действительно проявила высокий профессионализм и оказала нам крайне грамотную поддержку в выборе необходимого оборудования. Благодарим персонал за их высокий профессионализм. Рекомендуем этот прокат всем, и сами будем обращаться сюда снова, когда у нас возникнет такая потребность. 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "bf022bfbd3cde136",
+      "hash": "bf022bfbd3cde13699a6927f18329a45c0092eb7b8f411549979f71e0b242c89",
+      "author": "rarauou",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Брал инструмент: паркетку и шлиф машинку. Инструмент в хорошем состоянии, ничего не шатается и не гремит (Товарный вид), видно что его обслуживают и следят. Очереди нет, пришёл взял и ушел. Когда сдаешь также 3мин и по делам. Планирую тут ещё брать за эту неделю 3 инструмента. Пока стройка идёт и инструмент нужен сегодня и сейчас, а по итогу сделанной работы, чтобы не лежал (очень удобно). Экономит время и деньги😊 Ребята видно на позитиве, из-за этого приятно брать у вас инструмент. Помогают по всем вопросам. Лучший прокат в квартале. Меня как клиента вы завоевали👍",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "f9113a29a465862b",
+      "hash": "f9113a29a465862b2b0b0e1e81bf3633bf9a3d31382f72a3d0f00293379eeebb",
+      "author": "Сание АРСАНТИ",
+      "authorMeta": "Местный эксперт · 27 отзывов · 25 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Перед новым годом искала пылесос для уборки небольшой квартиры. Много кому звонила, но у кого то нет нужного пылесоса, у кого-то цена зашкаливает, кто-то не отвечал, а кто-то отвечал, но не вежливо. В данной фирме все сложилось идеально! От звонка и общения с консультантом до самого оборудования. Сервис и цена на высшем уровне. Мои наилучшие рекомендации. Ребята, вы супер! До новой встречи!! 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "1f494d568213337c",
+      "hash": "1f494d568213337c06e811bd0d6e93a9985d5f7e96160bc1253717bb185b2137",
+      "author": "Drajer",
+      "authorMeta": "4 отзыва · 1 фото",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Брал шуруповерт и перфоратор на прокат. Быстро оформили. Аппараты работают хорошо. Большое спасибо. Если нужно арендовать инструмент, рекомендую прийти в данное место.",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "22ca0c9c9a661a66",
+      "hash": "22ca0c9c9a661a66198918eafc62de1ed77cf4c75b9972ad7e18e6b5e5a8e11b",
+      "author": "Pelageya Mihalevich",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Сразу скажу, есть с чем сравнивать, брала уже пылесос в аренду (не в этой компании) была разочарована в его состоянии и работоспособности. В эту компанию обращалась впервые и не пожалела ни капли. Покорили меня еще с телефонного разговора, своей клиентоориентированность и способностью, все просто объяснить девушке)) Дмитрию отдельные 5 звезд!! Пылесос Makita VC2512L просто огонь!! А еще, самое главное, что все оборудование чистое и аккуратное и полностью выполняет свою задачу. Рекомендую!",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "d58cbeff50b9f62b",
+      "hash": "d58cbeff50b9f62b449d98499810d1caddcc6a94eaea69eb56f4d14dbc8eab83",
+      "author": "Богдан Чижонок",
+      "authorMeta": "9 отзывов · 5 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Широкий выбор высококачественных инструментов, дружелюбный и компетентный персонал всегда готовы помочь с выбором и подсказать лучшие решения. Цены разумные, а услуга быстрая и эффективная. Благодаря этой компании, моя задача была выполнена быстро. 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "5110b7d05f7bb049",
+      "hash": "5110b7d05f7bb049e5ff89ebf9e29bcac3ff7aa7e4348b3e3e8d9b896535893a",
+      "author": "Замотина Татьяна",
+      "authorMeta": "2 отзыва",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Лучший прокат в Минске. Очень вежливый персонал, сначала расспросили что нужно сделать, а потом предложили на выбор инструмент, причем по разной цене. Выбор инструмента впечатляет. 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "6622b4da7330d1aa",
+      "hash": "6622b4da7330d1aadc922ad4394b830c331690e997bbc19b57eacfc34de3e07d",
+      "author": "Алексей Ходоренко",
+      "authorMeta": "Местный эксперт · 128 отзывов · 49 фото",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Супер прокат, брал инструмент несколько раз, всегда все чисто и вежливый персонал. Молодцы ребята, вы лучший прокат в .Минске",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "15d1a25d3e5c8aec",
+      "hash": "15d1a25d3e5c8aecc0c67ba729227aea2b160a759e4b51fb234ac476af9f15cf",
+      "author": "Антон Лемеш",
+      "authorMeta": "5 отзывов · 1 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Выражаю свою благодарность. Необходимо было взять в аренду стремянку для покраски стен, потолки высотой почти 4 метра. Сотрудник предложил несколько вариантов. Подобрал по комфортной цене и высоте. Рекомендую!",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "56b1fe4026812d2a",
+      "hash": "56b1fe4026812d2ae6f94eaa78e6e8263cea153db0d3dc77918f8c8ca27dcb59",
+      "author": "Arty Sam",
+      "authorMeta": "8 отзывов · 2 фото",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Состояние инструмента отличное! Базовый комплект бит/сверел идет в комплекте. Не тратят много времени на оформление, что очень радует.",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "bf4c1ca18047794d",
+      "hash": "bf4c1ca18047794d7173e1440714a9de31cd425fcddcba2dcecafaeb495cf37f",
+      "author": "Александр",
+      "authorMeta": "Местный эксперт · 35 отзывов · 11 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Брали в прокат пылесос и инструмент. Все вежливо, чисто и приветливо. Будем еще обращаться. Рекомендую!",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "902d15151a6d5c04",
+      "hash": "902d15151a6d5c049f05044fe5060ddefe4e6a21efa421f2074d4f61c78cdab4",
+      "author": "Julia Phoenix",
+      "authorMeta": "Местный эксперт · 103 отзыва · 137 фото",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "брали строительный пылесос, очень легко помогли подобрать нужную модель, вошли в положение, работаем до поздна и разрешили отдать вне графика рабочего дня, объяснили как пользоваться, как вставить мешок, инструмент весь чистый в отличном состоянии, очень корректные консультанты и самый главный плюс, что удобное место расположение💛 благодарю Вас, теперь у нас квартира чистая и новенькая после ремонта🥰",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "5c7c4d65c072ceec",
+      "hash": "5c7c4d65c072ceec187d31369dde0c9c3bdcd389fc411d63f771c81049656b30",
+      "author": "Александр Михалюк",
+      "authorMeta": "4 отзыва",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Отличный сервис, качественный инструмент, помогут, подскажут, остался очень доволен. Заслуженные 5 звезд!!!",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "3f08c597d08aee2f",
+      "hash": "3f08c597d08aee2f40208f6f6b1d9fad23ba2db330d18c4dd62725b5b6542840",
+      "author": "Vladislav Shpakovski",
+      "authorMeta": "3 отзыва",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Беру постоянно инструмент именно в этом месте, все чётко и качественно, обслуживание на уровне 1",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "3557415e9f42f4f1",
+      "hash": "3557415e9f42f4f110209b6fb720e12ffbaf9541172b4957005231858e24c9d1",
+      "author": "Евгений Юдчиц",
+      "authorMeta": "4 отзыва · 1 фото",
+      "rating": 5,
+      "relativeDate": "3 месяца назад",
+      "text": "Хороший прокат!",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "79859f1a35c8e66f",
+      "hash": "79859f1a35c8e66fe7f24d196ee0221b5a7dc4d6ec0a7bfe52e491ea1cc09407",
+      "author": "Константин Зубов",
+      "authorMeta": "3 отзыва",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Крутой прокат, мне очень понравилось, стараются.",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "f472da530f73cc49",
+      "hash": "f472da530f73cc492af878b8bb18a8ef2c42f52ceec923b8a2433649dcea5642",
+      "author": "Vladislav",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Очень хороший персонал ,все качественно, надёжно",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "96e9e28812d153ba",
+      "hash": "96e9e28812d153ba3c515c0644821fd6b45f532821faf49c004ebae4da84c663",
+      "author": "Олег Авраменко",
+      "authorMeta": "2 отзыва",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "все круто, молодцы, очень понравилось.",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "357c10f266669aea",
+      "hash": "357c10f266669aea2decbad7f23acdf84d217bed91ba7f1607a507b929a0cf10",
+      "author": "Val",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "год назад",
+      "text": "Хорошее место, рекомендую",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    },
+    {
+      "id": "44f96060d432923d",
+      "hash": "44f96060d432923dc8f3251a055b0edb50d09fb3a757981a9720cf926788ce26",
+      "author": "Natashka",
+      "authorMeta": "3 отзыва",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Войти  Слои Картографические данные © , 2026ЛитваУсловия использованияКонфиденциальностьОтправить отзыв о сервисе 50 м",
+      "source": "google",
+      "locationId": "kabushkina-94-2"
+    }
+  ]
+}

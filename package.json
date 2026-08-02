@@ -1,0 +1,13 @@
+{
+  "name": "vsevprokat-google-reviews",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Weekly Google reviews export for vsevprokat.by",
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/check-google-browser.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.12.1"
+  }
+}
