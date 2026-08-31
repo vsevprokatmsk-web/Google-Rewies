@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:34:03.324Z",
+  "generatedAt": "2026-08-31T00:10:44.313Z",
   "ok": true,
   "launchError": null,
   "runner": {
@@ -22,7 +22,7 @@
       "ok": true,
       "error": null,
       "declaredReviewCount": 24,
-      "collectedReviewCount": 24,
+      "collectedReviewCount": 10,
       "sourceUrl": "https://www.google.com/maps/place/Vsevprokat/@53.8564378,27.6306567,17z/data=!3m1!4b1!4m18!1m9!3m8!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!2sVsevprokat!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy!3m7!1s0x46dbc515a1222995:0xc2af0b9d9d1229be!8m2!3d53.8564378!4d27.6332316!9m1!1b1!16s%2Fg%2F11vdkcx2zy?hl=ru-LT&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
       "sourceFileUrl": "https://raw.githubusercontent.com/vsevprokatmsk-web/Google-Rewies/main/data/google-reviews-kabushkina-94-2.json",
       "title": "Vsevprokat – Google Карты"
